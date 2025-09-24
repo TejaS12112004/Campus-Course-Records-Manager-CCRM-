@@ -4,7 +4,7 @@
 
 Running the Application --
 
-Clone the Repository - git clone- https://github.com/saturn-16/Campus-Course-Records-Manager-CCRM- cd ccrm-project
+Clone the Repository - git clone- https://github.com/TejaS12112004/Campus-Course-Records-Manager-CCRM-/tree/main cd ccrm-project
 2.Compile the Code - javac -d bin -cp bin src/edu/ccrm//*.java
 
 3.Run the Main Class java -cp bin edu.ccrm.cli.CCRM_CLI
